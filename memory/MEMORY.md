@@ -16,13 +16,10 @@
 ## Completed HTB: "Variatype" box
 
 See `htb-variatype.md` for full attack chain and flags.
-user.txt: 7483acfd7c3838506738faf8cbc9842c
-root.txt: ba5f71779ea70a67c1d0ebb6c3575b14
 
 ## In Progress: HTB "Pirate" box
 
 See `htb-pirate.md` for full state, creds, and attack chain.
-Blocked on: Defender killing ligolo agent; next step = PowerShell proxy on DC01.
 
 ## GitHub API Access
 
@@ -40,5 +37,3 @@ See `project_job_hunt.md` — scraper rules, hard exclusions (Cyderes, Wells Far
 ## Completed CTF: HTB "facts" box
 
 See `htb-facts.md` for full attack chain and flags.
-user.txt: bc7b49c620bcfddc7035657af1f15de4
-root.txt: e63efe7a4c593ce8e24fd24a00e51c4e
